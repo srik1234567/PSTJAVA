@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/srik1234567/PSTJAVA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
+| [1470-shuffle-the-array](https://github.com/srik1234567/PSTJAVA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/srik1234567/PSTJAVA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/srik1234567/PSTJAVA/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/srik1234567/PSTJAVA/tree/master/1920-build-array-from-permutation) |
