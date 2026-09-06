@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
+| [1360-number-of-days-between-two-dates](https://github.com/srik1234567/PSTJAVA/tree/master/1360-number-of-days-between-two-dates) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/srik1234567/PSTJAVA/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/srik1234567/PSTJAVA/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
