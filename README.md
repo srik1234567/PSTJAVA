@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/srik1234567/PSTJAVA/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/srik1234567/PSTJAVA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/srik1234567/PSTJAVA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/srik1234567/PSTJAVA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/srik1234567/PSTJAVA/tree/master/1470-shuffle-the-array) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srik1234567/PSTJAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srik1234567/PSTJAVA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/srik1234567/PSTJAVA/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
