@@ -55,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/srik1234567/PSTJAVA/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/srik1234567/PSTJAVA/tree/master/0179-largest-number) |
 | [1154-day-of-the-year](https://github.com/srik1234567/PSTJAVA/tree/master/1154-day-of-the-year) |
