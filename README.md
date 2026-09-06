@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/srik1234567/PSTJAVA/tree/master/0053-maximum-subarray) |
 | [0179-largest-number](https://github.com/srik1234567/PSTJAVA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/srik1234567/PSTJAVA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/srik1234567/PSTJAVA/tree/master/1470-shuffle-the-array) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/srik1234567/PSTJAVA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
 | [2418-sort-the-people](https://github.com/srik1234567/PSTJAVA/tree/master/2418-sort-the-people) |
 ## String
@@ -56,6 +58,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/srik1234567/PSTJAVA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/srik1234567/PSTJAVA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
 | [2418-sort-the-people](https://github.com/srik1234567/PSTJAVA/tree/master/2418-sort-the-people) |
