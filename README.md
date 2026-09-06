@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/srik1234567/PSTJAVA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/srik1234567/PSTJAVA/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/srik1234567/PSTJAVA/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/srik1234567/PSTJAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/srik1234567/PSTJAVA/tree/master/1314-matrix-block-sum) |
@@ -52,6 +53,7 @@
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/srik1234567/PSTJAVA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
+| [0890-find-and-replace-pattern](https://github.com/srik1234567/PSTJAVA/tree/master/0890-find-and-replace-pattern) |
 | [2418-sort-the-people](https://github.com/srik1234567/PSTJAVA/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -60,6 +62,7 @@
 | [0008-string-to-integer-atoi](https://github.com/srik1234567/PSTJAVA/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/srik1234567/PSTJAVA/tree/master/0179-largest-number) |
+| [0890-find-and-replace-pattern](https://github.com/srik1234567/PSTJAVA/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/srik1234567/PSTJAVA/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/srik1234567/PSTJAVA/tree/master/1360-number-of-days-between-two-dates) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/srik1234567/PSTJAVA/tree/master/1704-determine-if-string-halves-are-alike) |
