@@ -27,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/srik1234567/PSTJAVA/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srik1234567/PSTJAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srik1234567/PSTJAVA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srik1234567/PSTJAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -41,6 +42,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/srik1234567/PSTJAVA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/srik1234567/PSTJAVA/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/srik1234567/PSTJAVA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srik1234567/PSTJAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/srik1234567/PSTJAVA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/srik1234567/PSTJAVA/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srik1234567/PSTJAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srik1234567/PSTJAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/srik1234567/PSTJAVA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
