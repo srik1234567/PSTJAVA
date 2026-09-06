@@ -18,6 +18,7 @@
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/srik1234567/PSTJAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/srik1234567/PSTJAVA/tree/master/1314-matrix-block-sum) |
+| [1408-string-matching-in-an-array](https://github.com/srik1234567/PSTJAVA/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/srik1234567/PSTJAVA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/srik1234567/PSTJAVA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/srik1234567/PSTJAVA/tree/master/1732-find-the-highest-altitude) |
@@ -65,6 +66,7 @@
 | [0890-find-and-replace-pattern](https://github.com/srik1234567/PSTJAVA/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/srik1234567/PSTJAVA/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/srik1234567/PSTJAVA/tree/master/1360-number-of-days-between-two-dates) |
+| [1408-string-matching-in-an-array](https://github.com/srik1234567/PSTJAVA/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/srik1234567/PSTJAVA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/srik1234567/PSTJAVA/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srik1234567/PSTJAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/srik1234567/PSTJAVA/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
