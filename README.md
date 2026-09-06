@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/srik1234567/PSTJAVA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/srik1234567/PSTJAVA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
+| [0867-transpose-matrix](https://github.com/srik1234567/PSTJAVA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/srik1234567/PSTJAVA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/srik1234567/PSTJAVA/tree/master/1672-richest-customer-wealth) |
@@ -84,10 +85,12 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/srik1234567/PSTJAVA/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/srik1234567/PSTJAVA/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/srik1234567/PSTJAVA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/srik1234567/PSTJAVA/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
