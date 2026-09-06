@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
+| [1154-day-of-the-year](https://github.com/srik1234567/PSTJAVA/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/srik1234567/PSTJAVA/tree/master/1360-number-of-days-between-two-dates) |
 ## Sorting
 |  |
@@ -77,5 +78,6 @@
 ## Math
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/srik1234567/PSTJAVA/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/srik1234567/PSTJAVA/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
