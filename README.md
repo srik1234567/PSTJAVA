@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/srik1234567/PSTJAVA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
+| [1314-matrix-block-sum](https://github.com/srik1234567/PSTJAVA/tree/master/1314-matrix-block-sum) |
 | [1470-shuffle-the-array](https://github.com/srik1234567/PSTJAVA/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/srik1234567/PSTJAVA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/srik1234567/PSTJAVA/tree/master/1732-find-the-highest-altitude) |
@@ -39,6 +40,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/srik1234567/PSTJAVA/tree/master/1314-matrix-block-sum) |
 | [1732-find-the-highest-altitude](https://github.com/srik1234567/PSTJAVA/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/srik1234567/PSTJAVA/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/srik1234567/PSTJAVA/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/srik1234567/PSTJAVA/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
