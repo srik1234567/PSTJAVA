@@ -16,6 +16,7 @@
 | [1672-richest-customer-wealth](https://github.com/srik1234567/PSTJAVA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/srik1234567/PSTJAVA/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/srik1234567/PSTJAVA/tree/master/1920-build-array-from-permutation) |
+| [2418-sort-the-people](https://github.com/srik1234567/PSTJAVA/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/srik1234567/PSTJAVA/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
+| [2418-sort-the-people](https://github.com/srik1234567/PSTJAVA/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0179-largest-number](https://github.com/srik1234567/PSTJAVA/tree/master/0179-largest-number) |
 | [1154-day-of-the-year](https://github.com/srik1234567/PSTJAVA/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/srik1234567/PSTJAVA/tree/master/1360-number-of-days-between-two-dates) |
+| [2418-sort-the-people](https://github.com/srik1234567/PSTJAVA/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +57,7 @@
 | [0179-largest-number](https://github.com/srik1234567/PSTJAVA/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/srik1234567/PSTJAVA/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/srik1234567/PSTJAVA/tree/master/0905-sort-array-by-parity) |
+| [2418-sort-the-people](https://github.com/srik1234567/PSTJAVA/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
